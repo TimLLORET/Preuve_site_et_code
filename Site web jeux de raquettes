@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+  <html lang="fr">
+    <head>
+      <meta charset="utf-8" />
+	  <link rel="stylesheet" href="jeux.css" />
+	  <link rel="stylesheet" media="screen and (max-width: 1280px)"
+href="ecran.css" />
+      <title> Sport de raquettes </title>
+    </head>
+    <body>
+      <h1> Sport de raquettes </h1>
+	
+
+   	<br/>
+	 <br/>
+	 <br/>	 
+	 <img src="banniere_jeux_de_raquette.png" alt="">
+	 <br/>
+	 <br/>
+	  
+      <h2> Qu'est ce que c'est ce type de sport ? </h2>
+      <p> Le jeu de raquettes est un sport intermédiaire entre le tennis et le squash se jouant sur une surface rapide dans une enceinte close à l’aide de raquettes. </p>
+      <h2> les différents sport de raquettes sont : </h2>
+	  
+	   <section class="badminton">
+	  <div>
+	  <hr/>
+	  
+	 
+	 <h2><a href="badminton.html">Badminton</a></h2>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 
+	 </div>
+	 
+	 
+	<section class="squash"> 
+	<div>
+	 <hr/>
+	  
+	 
+	
+	  <h2><a href="squash_web.html">Squash</a></h2>
+	  
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	  
+	  <hr/> </div>
+	  
+	  
+	  <section class="tennis_table">
+	  <div>
+	  <hr/>
+      
+	  <h2><a href="pingpong_web.html">Tennis de table</a></h2>
+	  
+	  
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 
+	 <hr/> </div>
+	  
+	 
+	  <section class="padel">
+	   <div>
+	  <hr/>
+	  
+	  <h2><a href="padel_web.html">Padel</a></h2>
+	  
+	  <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	  
+	  
+	 <hr/> </div>
+	  	  
+		  
+	    
+	   <section class="raquetball">
+	   <div> 
+	   <hr/>
+	   
+	   
+	  <h2><a href="raquetball_web.html">Raquetball</a></h2>
+	  
+	  <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 
+	  <hr/> </div>
+	  
+	  
+      
+	  <section class="pelote_basque">
+	  <div>
+	  <hr/>
+	  
+	  <h2><a href="pelotebasque_web.html">Pelote Basque</a></h2>
+	  
+	  <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	  
+	 <hr/> </div>
+	 
+	 
+	   
+	  <section class="tennis">
+	  <div> 
+	  <hr/>
+	  
+	  <h2><a href="tennis_web.html">Tennis</a> </h2>
+	  <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	 <br/>
+	  
+	  <hr/> 
+	  </div>
+	  
+	  </body>
+	  </html>
